@@ -1,0 +1,6 @@
+/_output/
+/dist/
+/agy-usage
+/agy-usage.exe
+*.coverprofile
+.DS_Store
